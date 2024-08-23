@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Eminem's The Death of Slim Shady album a mixed bag, say critics",
+            "description": "The US rapper apparently kills off his alter ego Slim Shady on his hotly anticipated 12th album.",
+            "url": "https://www.bbc.co.uk/news/articles/cn384lg0l37o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/674f/live/93e1d860-4039-11ef-8b5e-efed939c2019.jpg",
+            "publishedAt": "2024-07-12T11:07:26.1774097Z",
+            "content": "USA Today said, external the 51-year-old is a \"lyrical pugilist throughout, except when he turns misty-eyed dad rapping about daughter Hailie Jade\". \r\nHis song Temporary starts with old recordings of… [+1102 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Relief' as Canadian serial killer Jeremy Skibicki found guilty",
+            "description": "A judge rejected the defence case that Jeremy Skibicki was not criminally responsible for killing the indigenous women.",
+            "url": "https://www.bbc.co.uk/news/articles/c727v3d5v4lo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddb6/live/6ed4b0e0-3fc3-11ef-80e4-0583a6680f34.jpg",
+            "publishedAt": "2024-07-12T11:07:24.2082962Z",
+            "content": "Tearful cheers erupted in a packed Canadian courtroom on Thursday as a judge found a serial killer guilty of first-degree murder in the deaths of four indigenous women. \r\nBut in the court gallery, Je… [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Whole pod of 77 whales die in mass stranding in Orkney",
+            "description": "A number of whales initially survived but the decision was taken to euthanise them after rescue efforts failed.",
+            "url": "https://www.bbc.co.uk/news/articles/c3g6xzrxy35o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6705/live/4a28d5e0-3f92-11ef-b74c-bb483a802c97.jpg",
+            "publishedAt": "2024-07-12T11:07:22.7242898Z",
+            "content": "A pod of 77 pilot whales has died after washing ashore on a beach in Orkney in what could be the biggest mass stranding for decades.\r\nThe British Divers Marine Life Rescue (BDMLR) had established 12 … [+564 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "In photos: Bieber, Rihanna, Gates and Blair at mega India wedding",
+            "description": "Photos from the months-long wedding celebrations of Anant Ambani, son of Asia richest man Mukesh Ambani.",
+            "url": "https://www.bbc.co.uk/news/articles/c4ng8z8mj12o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54d3/live/f5651350-402e-11ef-9e1c-3b4a473456a6.jpg",
+            "publishedAt": "2024-07-12T10:07:20.7250457Z",
+            "content": "Celebrities from across the globe are arriving in Mumbai for the wedding of the youngest son of Asia's richest man Mukesh Ambani. \r\nAnant Ambani is expected to tie the knot with Radhika Merchant, dau… [+683 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Can Biden be replaced? And who could replace Democratic nominee?",
+            "description": "Several rising stars in the party could enter the 2024 fray if Joe Biden steps aside.",
+            "url": "https://www.bbc.co.uk/news/articles/c80ekdwk9zro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fb28/live/88dab420-36f0-11ef-bbe0-29f79e992ddd.jpg",
+            "publishedAt": "2024-07-12T09:52:15.0996648Z",
+            "content": "Vice-President Kamala Harris, who is already on the ticket, is an obvious and increasingly popular choice within the party to replace Mr Biden. \r\nAs his deputy, she has become the face of the adminis… [+922 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China hits back at Nato over Russia accusations",
+            "description": "The West has called Beijing a \"decisive enabler\" of Russia's war on Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cxx24850k8yo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9f88/live/8f585da0-4002-11ef-8b06-b50f10697f57.jpg",
+            "publishedAt": "2024-07-12T05:07:15.8195842Z",
+            "content": "On Thursday, while speaking to the Netherlands' new foreign minister Caspar Veldkamp, Mr Wang said \"China absolutely does not accept\" all these accusations and insisted that they have \"always been a … [+1617 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Narcissists mellow with age, study suggests",
+            "description": "They do not fully grow out of a sense of self-importance, the survey of more than 37,000 people suggests.",
+            "url": "https://www.bbc.co.uk/news/articles/c2v0qq7z12qo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de57/live/b801c190-3f6e-11ef-ab13-876de021cbb8.jpg",
+            "publishedAt": "2024-07-12T02:22:15.2558601Z",
+            "content": "Narcissist has become an insult often hurled at people who are perceived as difficult or diagreeable. \r\nWe all may show some narcissistic traits at times.\r\nDoctors use the term to describe a specific… [+4181 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden stands firm on critical night - but gaffes mar fightback",
+            "description": "The question for his campaign is whether the floodgates of opposition will now open, or if the tide will hold.",
+            "url": "https://www.bbc.co.uk/news/articles/cgl75kdm420o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/86de/live/a55891f0-3ff4-11ef-9e1c-3b4a473456a6.jpg",
+            "publishedAt": "2024-07-12T02:22:12.9439378Z",
+            "content": "He corrected the first verbal misstep involving Ukraine's leader quickly. The second one he didnt catch, even as some reporters in the room murmured in surprise.\r\nThose moments - the only major stumb… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Australian soldier charged with spying for Russia",
+            "description": "The pair, both Russian-born Australian citizens, allegedly gathered military secrets to share with Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/c51yl3pvl1xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+            "publishedAt": "2024-07-12T00:07:14.5376432Z",
+            "content": "An Australian soldier and her husband have been arrested and each charged with spying for Russia.\r\nInvestigators say the couple - both Russian-born Australian citizens - obtained Australian Defence F… [+726 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ambani wedding: India tycoon’s son to marry after months of festivities",
+            "description": "Anant Ambani, son of Asia's richest man Mukesh Ambani, will tie the knot with Radhika Merchant in Mumbai.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5x22w0xl0o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b6ad/live/c08ede50-3f65-11ef-b6a8-b5e67d88a2ed.jpg",
+            "publishedAt": "2024-07-11T21:52:11.6143885Z",
+            "content": "After months of lavish celebrations spread across the world, the wedding ceremony of the son of Asia's richest man is set to take place on Friday.\r\nAnant Ambani, son of Reliance Industries chairman M… [+1066 chars]"
+        }
+    ]
+}
