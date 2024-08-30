@@ -3,11 +3,51 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navbar from './Navbar';
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import News from './News';
 
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element:  <div> <Navbar/> <News key="1"  pgSize={10} country="in" category="general" /></div> ,
+  },
+  
+  {
+    path: "/sports",
+    element: <div> <Navbar/> <News  key="2" pgSize={10} country="in" category="sports" /></div>,
+  },
+  {
+    path: "/science",
+    element: <div> <Navbar/> <News  key="3" pgSize={10} country="in" category="science" /></div>,
+  },
+  {
+    path: "/entertainment",
+    element: <div> <Navbar/> <News  key="4" pgSize={10} country="in" category="entertainment" /></div>,
+  },
+  
+  {
+    path: "/health",
+    element: <div> <Navbar/> <News  key="5" pgSize={10} country="in" category="health" /></div>,
+  },
+  {
+    path: "/business",
+    element: <div> <Navbar/> <News  key="6" pgSize={10} country="in" category="business" /></div>,
+  },
+  {
+    path: "/technology",
+    element: <div> <Navbar/> <News  key="7" pgSize={10} country="in" category="technology" /></div>,
+  },
+]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <RouterProvider router={router} />
+    
   </React.StrictMode>
 );
 
