@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 
-
 export class Heading extends Component {
 
   constructor() {
