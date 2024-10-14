@@ -53,6 +53,7 @@ export class News extends Component {
       if (element.description == null) {
         element.description = "description unavailable";
       }
+     
       if (element.urlToImage == null) {
         element.urlToImage = 'https://gizmodo.com/app/uploads/2024/07/Perseid.jpg';
       }
@@ -112,17 +113,11 @@ export class News extends Component {
 
   render() {
     return (
-      
-      <div className='container my-3' >
+      <>
         <h2 style={{ margin: '2vw 0vw 2vw 24vw' }}>News Point - Top {this.props.category == 'general' ? '' : this.props.category} Headlines</h2>
-        {/* {if (this.state.articles!==[]){
-
-        }} */}
         <InfiniteScroll
             dataLength={this.state.articles.length} //This is important field to render the next data
             next={this.mr1}
-            // this.state.page<this.state.cnt  this.state.reslt<this.state.totalResults
-            // this.state.articles.length!==this.state.reslt
             hasMore={this.state.page<this.state.cnt}
             loader={<h2 style={{marginLeft:'40vw',marginBottom:'10vw',marginTop:'5vw'}}>loading ..... </h2>}
             endMessage={this.state.page==this.state.cnt&&
@@ -130,6 +125,7 @@ export class News extends Component {
                 <h2 ><b>Yay! You have seen it all</b></h2>
               </p>
             }>
+              <div className="container my-3">
         <div className="row">
 
           {this.state.articles[0] == null ? <div style={{ marginLeft: '30vw', height: '15vw', width: '15vw' }} className="spinner-border" role="status">
@@ -147,8 +143,9 @@ export class News extends Component {
               })
             }
         </div>
+        </div>
         </InfiniteScroll>
-      </div>
+      </>
     )
   }
 }
